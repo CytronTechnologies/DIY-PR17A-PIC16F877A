@@ -1,0 +1,8 @@
+_delay: CODE, 1619 0 48
+_play: CODE, 1667 0 57
+_stop: CODE, 1508 0 33
+_record: CODE, 1724 0 57
+_main: CODE, 1781 0 267
+___wmul: CODE, 1575 0 44
+_tmr_delay: CODE, 1541 0 34
+Total: 540
